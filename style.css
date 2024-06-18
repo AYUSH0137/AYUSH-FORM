@@ -1,0 +1,78 @@
+
+body{
+    background-color: #ecf1f3;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
+.description h1{
+   display: block;
+   text-align: justify;
+   border-style: solid;
+ 
+}
+
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  
+}
+
+
+.gender label{ 
+  display: block;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 2px 2px 2px rgb(168, 168, 168);
+}
+
+.work label{
+    display: block;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+    
+}
+
+.question1 {
+border-width: 2px;
+border-style: solid;
+}
+
+.question1 label{
+    display: block;
+}
+
+
+ .platform { 
+border-width: 2px;
+border-style: solid;
+ }
+
+ .platform label{
+    display: block;
+ }
+
+
+.classes{
+border-width: 2px;
+border-style: solid;
+}
+
+.classes label{
+    display: block;
+}
+
+.box{
+    background-color: #8AACBC;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-right: 5%;
+}
+
+.infoholder label{
+    display: block;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+}
